@@ -33,3 +33,49 @@ body {
     padding: 12px;
 }
 
+.main {
+    display: flex;
+    justify-content: center;
+    padding: 5em 13em;
+    align-items: center;
+    background-color: #1f2937;
+}
+
+.main-left {
+    text-align: start;
+    flex-basis: 400px;
+    margin-right: 50px;
+    margin-bottom: 45px;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.main-signup {
+    border-radius: 8px;
+    background: #3882f6;
+    padding: 10px;
+    width: 110px;
+    border: none;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.main-right {
+    align-self: center;
+    flex: 1;
+}
+
+.main-right img {
+    height: auto;
+    max-width: 100%;
+}
+
