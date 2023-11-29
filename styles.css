@@ -115,3 +115,27 @@ body {
 .content-info {
     max-width: 300px;
 }
+
+/* Quote section  */
+
+.quote {
+    display: flex;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    padding: 7em 13em;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    text-align: start;
+}
+
+.author {
+    font-size: 28px;
+    font-weight: bolder;
+    text-align: end;
+    color: #1f2937;
+}
+
