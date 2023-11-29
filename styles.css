@@ -139,3 +139,32 @@ body {
     color: #1f2937;
 }
 
+.end {
+    display: flex;
+    justify-content: space-between;
+    padding: 3em 13em;
+    background-color: #3882f6;
+    margin-top: 6em;
+    margin-bottom: 6em;
+    margin-left: 10em;
+    margin-right: 10em;
+    border-radius: 8px;
+}
+
+.end-text {
+    color: white;
+    text-align: start;
+}
+
+.call-to-action, .call-subtext {
+    margin: 0;
+}
+
+.call-signup {
+    border-radius: 8px;
+    align-self: center;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-color: #f9faf8;
+    padding: 0.5em 2em;
+}
