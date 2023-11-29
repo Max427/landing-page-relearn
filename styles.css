@@ -139,6 +139,8 @@ body {
     color: #1f2937;
 }
 
+/* Call to action section  */
+
 .end {
     display: flex;
     justify-content: space-between;
@@ -167,4 +169,14 @@ body {
     background-color: #3882f6;
     border-color: #f9faf8;
     padding: 0.5em 2em;
+}
+
+/* Footer  */
+
+footer {
+    text-align: center;
+    padding: 2em;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 14px;
 }
